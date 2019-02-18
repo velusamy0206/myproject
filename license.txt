@@ -179,3 +179,5 @@
 	
 	experiment about auto build
 
+	New experiment about auto deploy
+
